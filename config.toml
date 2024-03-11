@@ -3,7 +3,7 @@ theme = "naysayer"
 [editor]
 line-number = "relative"
 mouse = false
-shell = ["pwsh"]
+# shell = ["pwsh"]
 cursorline = true
 color-modes = true
 lsp.display-inlay-hints = true
